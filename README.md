@@ -31,7 +31,7 @@ Dataset source: [Kaggle.com](https://www.kaggle.com/datasets/vikrishnan/boston-h
             - Correlation Test
             - Domain Knowledge based on EDA
             - Polynomial Features
-            - Regularization with Ridge/Lasso/ElasticNet + Manual Tuning
+            - `Regularization with Ridge/Lasso/ElasticNet + Manual Tuning`
         - Feature Selection
             - Splitting Data
             - Training Model -> Base Model (.fit())
